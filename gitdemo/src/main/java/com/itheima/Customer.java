@@ -5,4 +5,6 @@ private String papapa;
 private Integer hah;
 hhh
 
+    private String idea;
+
 }

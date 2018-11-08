@@ -4,5 +4,6 @@ public class Customer {
 private String papapa;
 
     private String idea;
+    private Integer numberIdea;
 
 }
